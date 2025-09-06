@@ -2,3 +2,8 @@ __pycache__/
 *.pyc
 .env
 google-chrome-stable_current_amd64.deb
+*.deb
+*.iso
+*.tar
+*.zip
+*.log
